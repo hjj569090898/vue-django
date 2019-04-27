@@ -1,2 +1,2 @@
 # vue-django
-vue+django+restful学习
+vue+django+restful
